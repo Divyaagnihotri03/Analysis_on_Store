@@ -1,5 +1,5 @@
 # Analysis_on_Store
-This project analyzes **Vrinda Store’s 2022 sales dataset** to uncover insights about customer behavior, sales performance, and order trends.   The dataset was provided in Excel format and analyzed using pivot tables, charts, and exploratory analysis. 
+This project analyzes **Vrinda Store’s 2024 sales dataset** to uncover insights about customer behavior, sales performance, and order trends.   The dataset was provided in Excel format and analyzed using pivot tables, charts, and exploratory analysis. 
 
 ## 📁 Project Structure
 - **Vrinda Store (Raw Data)** – Contains customer orders (Order ID, Gender, Age, Date, Status, Channel, Category, Amount, etc.)  
